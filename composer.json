@@ -1,0 +1,13 @@
+{
+    "name": "andre302/php-web-dev-phpview",
+    "description": "explore php-view with hexlet",
+    "require": {
+        "slim/php-view": "^2.2"
+    },
+    "authors": [
+        {
+            "name": "Andre302",
+            "email": "Andre302@k.ru"
+        }
+    ]
+}
